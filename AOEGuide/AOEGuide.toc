@@ -1,0 +1,9 @@
+## Interface: 11503, 40400, 30403
+## Title: AOE Guide
+## Notes: Shows AOE leveling paths on the map with arrows.
+## Author: Jules
+## Version: 1.0
+## SavedVariables: AOEGuideDB
+
+Data.lua
+Core.lua
